@@ -1,0 +1,24 @@
+{
+    "skills":[
+        {
+            "name":".NET Core",
+            "level":"70%"
+        },
+        {
+            "name":"MSSQL",
+            "level":"70%"
+        },
+        {
+            "name":"Angular",
+            "level":"80%"
+        },
+        {
+            "name":"Communtcation Skills",
+            "level":"74%"
+        },
+        {
+            "name":"Project Management",
+            "level":"60%"
+        }
+    ]
+}
