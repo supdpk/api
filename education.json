@@ -1,0 +1,18 @@
+{
+    "education":[
+        {
+            "start_from":"2022",
+            "ends_to":"Present",
+            "program_name":"Master of Computer Application",
+            "university_name":"Amity University",
+            "location":"Noida, Uttar Pradesh, India"
+        },
+        {
+            "start_from":"2013",
+            "ends_to":"2017",
+            "program_name":"Bachelor of Computer Application",
+            "university_name":"Arya Collage",
+            "location":"Ludhiana, Punjab, India"
+        }
+    ]
+}
