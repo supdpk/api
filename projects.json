@@ -1,0 +1,16 @@
+{
+    "projects":[
+        {
+            "title":"Imagitrix",
+            "name":"imagitrix.com",
+            "url":"#",
+            "project_photo":"/api/assets/edushastra.png"
+        },
+        {
+            "title":"EduShastra Online",
+            "name":"edushastra.online",
+            "url":"#",
+            "project_photo":"/api/assets/imagitrix.png"
+        }
+    ]
+}
