@@ -5,7 +5,7 @@
         "job_title":"Professional 1 Application Delivery",
         "comapany_name":"DXC Technology",
         "location":"Hyderabad, Telangana, India",
-        "logo":"https://dxc.scene7.com/is/image/dxc/DXC-Logo-gray?$landscape_desktop$"
+        "logo":"/api/assets/dxc.png"
     },
     {
         "start_from":"Sept 2019",
@@ -13,7 +13,7 @@
         "job_title":"Software Developer",
         "comapany_name":"DishTV India Limited",
         "location":"Noida, Uttar Pradesh, India",
-        "logo":"https://dishtv.mogiio.com/dish-logo.webp"
+        "logo":"/api/assets/dish.png"
     },
     {
         "start_from":"Nov 2018",
@@ -21,6 +21,6 @@
         "job_title":"Junior Software Developer",
         "comapany_name":"Parangat Technologies",
         "location":"Noida, Uttar Pradesh, India",
-        "logo":"https://d14x3o2gql4ql6.cloudfront.net/images/200X200-pt+(1).png"
+        "logo":"/api/assets/parangat.png"
     }]
 }
