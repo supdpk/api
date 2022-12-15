@@ -1,0 +1,16 @@
+{
+    "interests":[
+        {
+            "name":"Books",
+            "description":"Rapacious reader of motivational books, bibliographies, histories, mythologies, literary and contemporary Books"
+        },
+        {
+            "name":"Travel",
+            "description":"Like traveling to new places to explore new and varied culture, and experience there food and beverage."
+        },
+        {
+            "name":"Guitar",
+            "description":"Strumming Guitar in Free Time"
+        }
+    ]
+}
