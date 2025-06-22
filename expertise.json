@@ -1,20 +1,20 @@
 {
     "expertise": [
         {
-            "tittle": "Professionally drive",
-            "content": "Synergistically strategize customer directed resources rather than principle."
+            "tittle": "Full-Stack Web Development",
+            "content": "I specialize in building end-to-end web applications using a modern technology stack. With hands-on experience in both front-end frameworks (ReactJS, Angular) and back-end development using .NET Core and MSSQL, I develop scalable, maintainable, and high-performance web solutions. I’m comfortable managing everything from API development to database integration, ensuring seamless communication across the stack."
         },
         {
-            "tittle": "Seamlessly leverage",
-            "content": "Quickly repurpose reliable customer service with orthogonal ideas. Competently. "
+            "tittle": "Modern Front-End Engineering ",
+            "content": "I have deep expertise in crafting responsive, component-driven user interfaces using ReactJS and Angular. I focus on creating intuitive user experiences with strong attention to performance, accessibility, and maintainability. My approach involves clean architecture, modular design, and the effective use of state management tool like Redux."
         },
         {
-            "tittle": "Globally streamline",
-            "content": "Dynamically initiate client-based convergence vis-a-vis performance based."
+            "tittle": "API Design & Integration",
+            "content": "I design and implement efficient, scalable APIs using GraphQL and REST principles. My experience includes building secure, well-documented API endpoints and integrating them seamlessly with various front-end clients. I emphasize performance, data accuracy, and developer experience through clear schema definitions, error handling, and versioning strategies."
         },
         {
-            "tittle": "Interactively incubate",
-            "content": "Interactively myocardinate high standards in initiatives rather than next-generation."
+            "tittle": "Database Design & Optimization",
+            "content": "I work extensively with Microsoft SQL Server for relational database development, including schema design, stored procedures, indexing, and query optimization. I ensure data integrity, performance, and scalability in all my database solutions. I also handle data migration, integration, and reporting requirements for enterprise-grade applications."
         }
     ]
 }
