@@ -13,6 +13,10 @@
             "level":"80%"
         },
         {
+            "name":"GraphQL",
+            "level":"60%"
+        },
+        {
             "name":"Angular",
             "level":"60%"
         },
