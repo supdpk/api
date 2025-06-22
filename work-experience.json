@@ -1,7 +1,16 @@
 {
-  "work_experience":[{
-        "start_from":"Sept 2021",
+  "work_experience":[
+    {
+      "start_from":"Mar 2023",
         "end_to":"Present",
+        "job_title":"Enigineer I",
+        "comapany_name":"S&P Global",
+        "location":"Hyderabad, Telangana, India",
+      "logo":"https://supdpk.github.io/api/assets/sandpglobal.png"
+    },
+    {
+        "start_from":"Sept 2021",
+        "end_to":"Mar 2023",
         "job_title":"Professional 1 Application Delivery",
         "comapany_name":"DXC Technology",
         "location":"Hyderabad, Telangana, India",
